@@ -1,0 +1,23 @@
+{
+  "id": "coc7lib",
+  "title": "coc7lib",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "chudovisha",
+      "label": "Чудовища",
+      "path": "packs/chudovisha",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "CoC7",
+      "flags": {}
+    }
+  ]
+}
